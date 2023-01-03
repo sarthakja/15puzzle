@@ -1,6 +1,6 @@
 # 15puzzle
 This repository solves the 15 puzzle problem using uninformed and informed search strategies.  
-BFS and idfs are the uninformed searh strategies used.  
+BFS and idfs are the uninformed seach strategies used.  
 Astar and idastar are the informed search strategies used. Both astar and idastar run with manhattan and misplaced tiles heuristic.  
   
 To run the code, first run the following command:  
